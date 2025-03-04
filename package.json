@@ -1,0 +1,23 @@
+{
+  "name": "npm-todolist-restful-api-kata",
+  "version": "1.0.0",
+  "description": "Todolist RESTful API kata",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/god092317/Todolist-RESTful-API-kata.git"
+  },
+  "author": "Will09",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/god092317/Todolist-RESTful-API-kata/issues"
+  },
+  "homepage": "https://github.com/god092317/Todolist-RESTful-API-kata#readme",
+  "dependencies": {
+    "uuid": "^11.0.5"
+  }
+}
